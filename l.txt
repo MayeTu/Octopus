@@ -1,0 +1,27 @@
+10:aa aa:AAAA
+11:bbbb:BBBB
+12:cccc:CC CC
+13:dddd:DDDD
+14:ee ee:EEEE
+15:ffff:FFFF
+16:jjjj:JJJJ
+17:hhhh:HHHH
+18:gg gg:G GGG
+19:iiii:IIII
+20:k kkk:KKKK
+21:llll:LLL L
+22:mm mm:M M M M
+23:nnnn:NNNN
+24:oooo:OOOO
+25:pppp:PPPP
+20:qq qq:QQ QQ
+27:rrrr:RRRR
+28:sss s:SSSS
+29:tttt:T TTT
+30:uuuu:UUUU
+31:vvvv:VVVV
+32:wwww:W WWW
+33:xxxx:XXXX
+34:yyyy:YYYY
+35:zzz z:ZZZZ
+-1
